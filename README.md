@@ -12,7 +12,7 @@ __`Tech Alchemist (Developer/Engineer/Designer)`__
 
 ### 🧰 Languages / Tools I use to cast my spells
 
-<div style="display: grid; grid-template-columns: repeat(10, 1fr); max-width: 400px;">
+<div style="display: flex; flex-wrap: wrap;">
 <img align="left" alt="ExpressJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 <img align="left" alt="NodeJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -73,6 +73,8 @@ __`Tech Alchemist (Developer/Engineer/Designer)`__
 
 <img align="left" alt="Photoshop" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
+
+<br />
 
 ### 🏙️ Top Projects
 
