@@ -10,9 +10,11 @@ __`Tech Alchemist (Developer/Engineer/Designer)`__
 
 ❝ _I'm a __Full Stack developer by choice__, and a __Software Engineer at heart__. My greatest joy comes from building applications and software that fuel self-learning and personal growth, while at the same time, tackling real-world challenges head-on. From inception to execution, I meticulously build my coding projects, ensuring they address possible problems from the ground up. I eagerly embrace new and emerging technologies, leveraging them to boost productivity and innovation in my projects. I believe in the power of knowledge, and I invest time in learning and implementing the latest tools to push the boundaries of what's possible._ ❞
 
+---
+
 ### 🧰 Languages / Tools I use to cast my spells
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img align="left" alt="ExpressJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 <img align="left" alt="NodeJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -74,9 +76,7 @@ __`Tech Alchemist (Developer/Engineer/Designer)`__
 <img align="left" alt="Photoshop" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 
-<br />
-<br />
-<br />
+---
 
 ### 🏙️ Top Projects
 
@@ -140,6 +140,8 @@ __`Tech Alchemist (Developer/Engineer/Designer)`__
 	<a href="https://github.com/SBTopZZZ-LG/cpp_tictactoe" target="_blank" rel="noreferrer"><img alt="cpp_tictactoe" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api/pin/?username=SBTopZZZ-LG&repo=cpp_tictactoe&icon_color=000000&bg_color=45,ffffff,dddddd&text_color=000000" /></a>
 </p>
 </details>
+
+---
 
 ### 📊 Statistics
 
