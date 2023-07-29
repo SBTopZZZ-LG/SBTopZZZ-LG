@@ -14,67 +14,13 @@ __`Tech Alchemist (Developer/Engineer/Designer)`__
 
 ### 🧰 Languages / Tools I use to cast my spells
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img align="left" alt="ExpressJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-
-<img align="left" alt="NodeJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img align="left" alt="Node Package Manager" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-
-<img align="left" alt="JavaScript" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="TypeScript" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-<img align="left" alt="MongoDB" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-
-<img align="left" alt="MySQL" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-<img align="left" alt="ReactJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<img align="left" alt="DiscordJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-
-<img align="left" alt="Dart" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-
-<img align="left" alt="Flutter" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-<img align="left" alt="Figma" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-<img align="left" alt="C" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
-<img align="left" alt="C++" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-<img align="left" alt="Html5" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-
-<img align="left" alt="Css3" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="left" alt="Bootstrap" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-
-<img align="left" alt="Material UI" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-
-<img align="left" alt="Android" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-
-<img align="left" alt="Java" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img align="left" alt="Python" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img align="left" alt="Unity" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-
-<img align="left" alt="C#" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-
-<img align="left" alt="Firebase" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-
-<img align="left" alt="Google Cloud" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-
-<img align="left" alt="Heroku" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-
-<img align="left" alt="Visual Studio" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
-<img align="left" alt="Visual Studio Code" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<img align="left" alt="Photoshop" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-</div>
+|<img align="left" alt="ExpressJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />|<img align="left" alt="NodeJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />|<img align="left" alt="Node Package Manager" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />|<img align="left" alt="JavaScript" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />|<img align="left" alt="TypeScript" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|
+|--|--|--|--|--|
+|<img align="left" alt="MongoDB" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />|<img align="left" alt="MySQL" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />|<img align="left" alt="ReactJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />|<img align="left" alt="DiscordJS" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />|<img align="left" alt="Dart" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />|
+|<img align="left" alt="Flutter" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />|<img align="left" alt="Figma" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />|<img align="left" alt="C" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />|<img align="left" alt="C++" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />|<img align="left" alt="Html5" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />|
+|<img align="left" alt="Css3" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />|<img align="left" alt="Bootstrap" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />|<img align="left" alt="Material UI" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />|<img align="left" alt="Android" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />|<img align="left" alt="Java" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />|
+|<img align="left" alt="Python" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />|<img align="left" alt="Unity" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />|<img align="left" alt="C#" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />|<img align="left" alt="Git" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />|<img align="left" alt="Firebase" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />|
+|<img align="left" alt="Google Cloud" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />|<img align="left" alt="Heroku" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />|<img align="left" alt="Visual Studio" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />|<img align="left" alt="Visual Studio Code" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />|<img align="left" alt="Photoshop" width="30px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />|
 
 ---
 
