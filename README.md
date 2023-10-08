@@ -52,6 +52,7 @@ __`Tech Alchemist (Developer/Engineer/Designer)`__
 	<a href="https://github.com/SBTopZZZ-LG/aura-git" target="_blank" rel="noreferrer"><img alt="aura-git" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api/pin/?username=SBTopZZZ-LG&repo=aura-git&icon_color=000000&bg_color=45,ffffff,dddddd&text_color=000000" /></a><br />
 	<a href="https://github.com/SBTopZZZ-LG/web_project-blogio-backend" target="_blank" rel="noreferrer"><img alt="web_project-blogio-backend" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api/pin/?username=SBTopZZZ-LG&repo=web_project-blogio-backend&icon_color=000000&bg_color=45,ffffff,dddddd&text_color=000000" /></a><br />
 	<a href="https://github.com/SBTopZZZ-LG/discord_ytd" target="_blank" rel="noreferrer"><img alt="discord_ytd" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api/pin/?username=SBTopZZZ-LG&repo=discord_ytd&icon_color=000000&bg_color=45,ffffff,dddddd&text_color=000000" /></a><br />
+	<a href="https://github.com/SBTopZZZ-LG/discord_spellit" target="_blank" rel="noreferrer"><img alt="nodejs-authapp" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api/pin/?username=SBTopZZZ-LG&repo=discord_spellit&icon_color=000000&bg_color=45,ffffff,dddddd&text_color=000000" /></a><br />
 	<a href="https://github.com/SBTopZZZ-LG/nodejs-authapp" target="_blank" rel="noreferrer"><img alt="nodejs-authapp" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api/pin/?username=SBTopZZZ-LG&repo=nodejs-authapp&icon_color=000000&bg_color=45,ffffff,dddddd&text_color=000000" /></a>
 </p>
 </details>
