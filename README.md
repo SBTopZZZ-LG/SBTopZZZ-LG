@@ -97,4 +97,4 @@
 
 <img alt="Top Languages" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api/top-langs/?username=SBTopZZZ-LG&layout=compact&exclude_repo=Unity3D-Dodgy,CSharp-Huffman-Program,my-first-unity-game&bg_color=45,ffffff,dddddd&text_color=000000&hide=HTML,CMake,C,CSS&custom_title=Top%20Languages" />
 
-<img width="300px" alt="GitHub Stats" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api?username=SBTopZZZ-LG&show_icons=true&layout=compact&bg_color=45,ffffff,dddddd&text_color=000000&custom_title=GitHub%20Stats" />
+<img alt="GitHub Stats" src="https://github-readme-stats-sbtopzzz-lg.vercel.app/api?username=SBTopZZZ-LG&show_icons=true&layout=compact&bg_color=45,ffffff,dddddd&text_color=000000&custom_title=GitHub%20Stats" />
