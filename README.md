@@ -1,9 +1,3 @@
-<style>
-  body, h1, h2, h3, h4, h5, h6, p, div, span, td, th, table {
-    font-family: 'DM Mono', 'Fira Code', 'Consolas', 'Monaco', monospace !important;
-  }
-</style>
-
 <div align="center" style="font-family: 'DM Mono', 'Fira Code', 'Consolas', 'Monaco', monospace;">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <span style="font-family: 'DM Mono', 'Fira Code', 'Consolas', 'Monaco', monospace;">Hey there! I'm Saumitra Topinkatti</span>
