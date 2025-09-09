@@ -281,7 +281,8 @@ Stay tuned for more awesome projects!
 
 ### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+together+🚀;Always+open+to+interesting+conversations;Feel+free+to+reach+out+anytime!" alt="Typing SVG" />
+<!-- Typing SVG broken for some reason on GitHub site, commenting for now -->
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+together+🚀;Always+open+to+interesting+conversations;Feel+free+to+reach+out+anytime!" alt="Typing SVG" /> -->
 
 ---
 
