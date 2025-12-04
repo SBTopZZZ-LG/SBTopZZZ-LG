@@ -58,7 +58,8 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin: 0 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" style="margin: 0 5px;">
 <br><strong>Backend Development</strong>
 <br>Building robust, scalable APIs
 </td>
@@ -215,22 +216,24 @@ Complete web application for college festival management featuring user authenti
 </td>
 <td width="50%">
 
-### 💡 More Projects Coming Soon
+### 🏗️ [go-dependency-injection](https://github.com/SBTopZZZ-LG/go-dependency-injection)
 
-**Always Building Something New**
+**Go Dependency Injection Showcase**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-</div>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Uber_Fx-000000?style=flat-square&logo=uber&logoColor=white" />
 
-Currently working on exciting new projects involving:
+A comprehensive demonstration of **Dependency Inversion** and **Dependency Injection** patterns in Go, featuring manual implementation and library-based solutions (Uber fx, Google wire).
 
-- 🤖 AI/ML integrations
-- ☁️ Cloud-native applications
-- 🔧 DevOps automation tools
-- 📊 Data analytics platforms
+**Key Features:**
 
-Stay tuned for more awesome projects!
+- 💉 Dependency Injection patterns
+- 🔄 Dependency Inversion principle
+- 🛠️ Uber fx & Google wire integration
+- 🐳 Dockerized MySQL database
+- 💻 CLI-based Todo management
 
 </td>
 </tr>
