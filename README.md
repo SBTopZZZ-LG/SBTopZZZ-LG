@@ -171,23 +171,24 @@ Complete user authentication platform with advanced security features including 
 </td>
 <td width="50%">
 
-### 📦 [react_useLatestState](https://github.com/MakeItBuildIt/react_useLatestState)
+### 🔎 [searxng-python-sdk](https://github.com/SBTopZZZ-LG/searxng-python-sdk)
 
-**Published NPM Package**
+**Python Search SDK for SearXNG**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Asyncio-30363D?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTTPX-0A0A0A?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
 
-Production-ready React hook solving state closure issues in useEffect and event handlers. Published on npm with comprehensive documentation and TypeScript support.
+Comprehensive Python SDK for querying self-hosted SearXNG instances featuring an async interface, strongly typed result models, flexible search configuration, and resilient request handling.
 
 **Key Features:**
 
-- ⚛️ Solves React closure issues
-- 📚 Comprehensive TypeScript support
-- 📖 Complete documentation
-- 🚀 Production-ready
-- 📦 Available on NPM
+- 🐍 Python 3.9+ support
+- ⚡ Async search API
+- 🧩 Structured typed result models
+- 🛡️ Automatic HTTP 429 retry with backoff
+- 🧪 Unit and integration test suite
 
 </td>
 </tr>
@@ -234,6 +235,41 @@ A comprehensive demonstration of **Dependency Inversion** and **Dependency Injec
 - 🛠️ Uber fx & Google wire integration
 - 🐳 Dockerized MySQL database
 - 💻 CLI-based Todo management
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📝 Featured Gists
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284077-590f76e5-9b76-4c43-b6f7-d3f6b58d9d73.gif" width="900">
+</div>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🗄️ [PostgreSQL Isolated Database and User Creation Template](https://gist.github.com/SBTopZZZ-LG/0e99da0f2e37920d4c372f95551eb312)
+
+**Production-Ready Multi-Tenant SQL Script**
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Least%20Privilege-2EA043?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Tenant-Isolation-1F6FEB?style=flat-square" />
+
+Comprehensive PostgreSQL script for creating isolated users and databases per service, with strict access boundaries, retroactive permission cleanup, migration-friendly schema grants, and verification queries.
+
+**Key Features:**
+
+- 🔐 Complete per-service database isolation
+- 🔄 Retroactive cleanup for existing databases
+- 🧱 Least-privilege role and CONNECT controls
+- 🛠️ Compatible with Drizzle, Prisma, and TypeORM workflows
+- ✅ Built-in verification queries for access checks
 
 </td>
 </tr>
