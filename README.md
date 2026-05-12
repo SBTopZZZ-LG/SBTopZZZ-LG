@@ -238,6 +238,30 @@ A comprehensive demonstration of **Dependency Inversion** and **Dependency Injec
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### 🤖 [shot-at-ai-browser](https://github.com/SBTopZZZ-LG/shot-at-ai-browser)
+
+**Two-Agent AI Browser Automation**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Asyncio-30363D?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot_API-000000?style=flat-square&logo=github&logoColor=white" />
+
+A two-agent browser automation system where a **Scout** agent breaks a plain-English goal into a step plan, and a **Ranger** agent executes those steps in a real Chrome browser — with automatic replanning on failure and a structured post-run friction report for iterative improvement.
+
+**Key Features:**
+
+- 🗺️ Scout + Ranger two-agent orchestration
+- 🌐 Real Chrome browser automation via Playwright
+- 🔄 Automatic replanning when Ranger gets stuck
+- ⚡ Batched actions with DOM diffing & overlay detection
+- 📊 Post-execution friction report as a feedback loop
+
+</td>
+</tr>
 </table>
 
 ---
