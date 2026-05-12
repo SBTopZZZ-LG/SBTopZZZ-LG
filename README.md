@@ -239,7 +239,7 @@ A comprehensive demonstration of **Dependency Inversion** and **Dependency Injec
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="100%" colspan="2">
 
 ### 🤖 [shot-at-ai-browser](https://github.com/SBTopZZZ-LG/shot-at-ai-browser)
 
