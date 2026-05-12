@@ -147,6 +147,76 @@
 
 <table>
 <tr>
+<td width="100%" colspan="2">
+
+### 🤖 [shot-at-ai-browser](https://github.com/SBTopZZZ-LG/shot-at-ai-browser)
+
+**Two-Agent AI Browser Automation**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Asyncio-30363D?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot_API-000000?style=flat-square&logo=github&logoColor=white" />
+
+A two-agent browser automation system where a **Scout** agent breaks a plain-English goal into a step plan, and a **Ranger** agent executes those steps in a real Chrome browser — with automatic replanning on failure and a structured post-run friction report for iterative improvement.
+
+**Key Features:**
+
+- 🗺️ Scout + Ranger two-agent orchestration
+- 🌐 Real Chrome browser automation via Playwright
+- 🔄 Automatic replanning when Ranger gets stuck
+- ⚡ Batched actions with DOM diffing & overlay detection
+- 📊 Post-execution friction report as a feedback loop
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔎 [searxng-python-sdk](https://github.com/SBTopZZZ-LG/searxng-python-sdk)
+
+**Python Search SDK for SearXNG**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Asyncio-30363D?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTTPX-0A0A0A?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+
+Comprehensive Python SDK for querying self-hosted SearXNG instances featuring an async interface, strongly typed result models, flexible search configuration, and resilient request handling.
+
+**Key Features:**
+
+- 🐍 Python 3.9+ support
+- ⚡ Async search API
+- 🧩 Structured typed result models
+- 🛡️ Automatic HTTP 429 retry with backoff
+- 🧪 Unit and integration test suite
+
+</td>
+<td width="50%">
+
+### 🎉 [aura-git](https://github.com/SBTopZZZ-LG/aura-git)
+
+**Full-Stack Festival Platform**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+
+Complete web application for college festival management featuring user authentication, event registration, responsive design, and RESTful API architecture.
+
+**Key Features:**
+
+- 🎊 Event management system
+- 👥 User registration & authentication
+- 📱 Responsive design
+- 🔗 RESTful API architecture
+- 🎨 Modern UI/UX
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔐 [nodejs-authapp](https://github.com/SBTopZZZ-LG/nodejs-authapp)
@@ -171,52 +241,6 @@ Complete user authentication platform with advanced security features including 
 </td>
 <td width="50%">
 
-### 🔎 [searxng-python-sdk](https://github.com/SBTopZZZ-LG/searxng-python-sdk)
-
-**Python Search SDK for SearXNG**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Asyncio-30363D?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTTPX-0A0A0A?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
-
-Comprehensive Python SDK for querying self-hosted SearXNG instances featuring an async interface, strongly typed result models, flexible search configuration, and resilient request handling.
-
-**Key Features:**
-
-- 🐍 Python 3.9+ support
-- ⚡ Async search API
-- 🧩 Structured typed result models
-- 🛡️ Automatic HTTP 429 retry with backoff
-- 🧪 Unit and integration test suite
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎉 [aura-git](https://github.com/SBTopZZZ-LG/aura-git)
-
-**Full-Stack Festival Platform**
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-
-Complete web application for college festival management featuring user authentication, event registration, responsive design, and RESTful API architecture.
-
-**Key Features:**
-
-- 🎊 Event management system
-- 👥 User registration & authentication
-- 📱 Responsive design
-- 🔗 RESTful API architecture
-- 🎨 Modern UI/UX
-
-</td>
-<td width="50%">
-
 ### 🏗️ [go-dependency-injection](https://github.com/SBTopZZZ-LG/go-dependency-injection)
 
 **Go Dependency Injection Showcase**
@@ -235,30 +259,6 @@ A comprehensive demonstration of **Dependency Inversion** and **Dependency Injec
 - 🛠️ Uber fx & Google wire integration
 - 🐳 Dockerized MySQL database
 - 💻 CLI-based Todo management
-
-</td>
-</tr>
-<tr>
-<td width="100%" colspan="2">
-
-### 🤖 [shot-at-ai-browser](https://github.com/SBTopZZZ-LG/shot-at-ai-browser)
-
-**Two-Agent AI Browser Automation**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Asyncio-30363D?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot_API-000000?style=flat-square&logo=github&logoColor=white" />
-
-A two-agent browser automation system where a **Scout** agent breaks a plain-English goal into a step plan, and a **Ranger** agent executes those steps in a real Chrome browser — with automatic replanning on failure and a structured post-run friction report for iterative improvement.
-
-**Key Features:**
-
-- 🗺️ Scout + Ranger two-agent orchestration
-- 🌐 Real Chrome browser automation via Playwright
-- 🔄 Automatic replanning when Ranger gets stuck
-- ⚡ Batched actions with DOM diffing & overlay detection
-- 📊 Post-execution friction report as a feedback loop
 
 </td>
 </tr>
